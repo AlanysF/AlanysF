@@ -1,6 +1,5 @@
 ### Olá, eu sou a Alanys Ferreira!
 
-- 📚 1° Semestre de Big Data para Negócios
 - 🌱 Futura Cientista de Dados
 - 💬 Aluna do 2° Semestre do Proprofissão
 - 🙂 Pronous/Pronomes: Ela/Dela (She/her)
