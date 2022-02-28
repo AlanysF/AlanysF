@@ -1,6 +1,7 @@
 ### Olá, eu sou a Alanys Ferreira!
 
 - 🌱 Futura Cientista de Dados
+- ❤ Apaixonada por banco de dados
 - 💬 Ex-Aluna do 2° Semestre do Proprofissão de 2021
 - 🙂 Pronous/Pronomes: Ela/Dela (She/her)
 
